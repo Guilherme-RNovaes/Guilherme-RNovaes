@@ -37,12 +37,10 @@
 ## Contribuições
 
 <p align="center">
-<!--     <a href="https://github.com/Guilherme-RNovaes/github-readme-streak-stats"> -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guilherme-RNovaes's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-RNovaes&theme=black-ice&hide_border=true&border_radius=5&locale=pt-br&stroke=00000000&ring=5BCDEC&background=060A0CD0"/>
-<!--     </a> -->
+  <a href="https://github.com/Guilherme-RNovaes/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guilherme-RNovaes's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-RNovaes&theme=black-ice&hide_border=true&border_radius=5&locale=pt-br&stroke=00000000&ring=5BCDEC&background=060A0CD0"/>
+  </a>
 </p>
-
-<!-- <a href="https://github.com/liberti1991/github-readme-activity-graph"> -->
-  <img alt="Guilherme-RNovaes's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Guilherme-RNovaes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-<!--   </a> -->
-
+<p align="center">                                                                                                
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Guilherme-RNovaes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+</p>
