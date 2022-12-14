@@ -1,9 +1,9 @@
 # Bem-vindo(a) ao meu perfil!!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-RNovaes&theme=transparent&locale=en&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" alt="stats graph" height="150  />
-  <img src="https://githut-readme-stats.vercel.app/api/top-langs?username=Guilherme-RNovaes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-RNovaes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-RNovaes&theme=transparent&locale=en&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" height="150/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-RNovaes&hide_title=true&layout=compact&langs_count=5&theme=transparent&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" height="150" />
 </div>
 
 ## Minhas skills
