@@ -38,5 +38,5 @@
   </a>
 </p>
 <p align="center">                                                                                                
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Guilherme-RNovaes&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Guilherme-RNovaes&&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 </p>
