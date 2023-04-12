@@ -1,3 +1,9 @@
+# Bem-vindo(a) ao meu perfil!!
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Guilherme-RNovaes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-RNovaes&layout=compact&hide_title=true&hide_border=true&bg_color=060A0CD0&text_color=5BCDEC"/>
+</div>
 
 ## Minhas skills
 
