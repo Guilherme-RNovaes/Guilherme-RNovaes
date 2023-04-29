@@ -9,8 +9,6 @@
 
 ## Minhas skills
 
-
-
 <div align="center">
   <div align="center">
     <h3>Front-end</h3>
