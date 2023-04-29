@@ -1,5 +1,7 @@
 # Bem-vindo(a) ao meu perfil!!
 
+<img align="right" height="600em" src="https://user-images.githubusercontent.com/101211552/235323595-209ecb36-6bd3-483b-b94e-b53ec84fb4e1.png" />
+
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Guilherme-RNovaes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-RNovaes&layout=compact&hide_title=true&hide_border=true&bg_color=060A0CD0&text_color=5BCDEC"/>
@@ -7,14 +9,25 @@
 
 ## Minhas skills
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+
+
+<div align="center">
+  <div align="center">
+    <h3>Front-end</h3>
+    <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+    <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+    <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="react" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="nextjs" height="40" width="40" color=white src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+    <img align="center" alt="tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+    <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  </div>
+  <div align="center">
+    <h3>Back-end</h3>
+    <img align="center" alt="node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img align="center" alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    <img align="center" alt="node" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  </div>
 </div>
  
  ## Me segue nas redes abaixo!
