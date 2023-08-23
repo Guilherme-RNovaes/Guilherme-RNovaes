@@ -52,8 +52,5 @@
   </a>
 </p>
 <p align="center">                                                                                                
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Guilherme-RNovaes&&theme=react-dark" />
-</p>
-<p align="center">                                                                                                
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Guilherme-RNovaes&&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-RNovaes&&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 </p>
