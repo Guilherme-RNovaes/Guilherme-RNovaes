@@ -11,7 +11,7 @@
 <div align="center">
   <div align="center">
     <h3>Front-end</h3>
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,react,next,vite,tailwind,bootstrap,sass,styledcomponents&theme=dark" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,react,next,vite,astro,tailwind,bootstrap,sass,styledcomponents&theme=dark" />
   </div>
   <div align="center">
     <h3>Back-end</h3>
@@ -19,7 +19,7 @@
   </div>
   <div align="center">
     <h3>Dev tools</h3>
-    <img align="center" src="https://skillicons.dev/icons?i=arch,neovim,vim,vscode,git,github,vercel,postman&theme=dark" />
+    <img align="center" src="https://skillicons.dev/icons?i=arch,neovim,vim,vscode,vscodium,git,github,vercel,postman&theme=dark" />
   </div>
 </div>
  
