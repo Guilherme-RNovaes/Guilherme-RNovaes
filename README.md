@@ -11,15 +11,15 @@
 <div align="center">
   <div align="center">
     <h3>Front-end</h3>
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,react,next,tailwind,bootstrap&theme=dark" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,react,next,vite,tailwind,bootstrap,sass,styledcomponents&theme=dark" />
   </div>
   <div align="center">
     <h3>Back-end</h3>
-    <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,lua,mysql,mongodb,docker&theme=dark" />
+    <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,lua,mysql,mongodb,prisma,postgresql,firebase,supabase&theme=dark" />
   </div>
   <div align="center">
-    <h3>Apps</h3>
-    <img align="center" src="https://skillicons.dev/icons?i=arch,neovim,vim,vscode&theme=dark" />
+    <h3>Dev tools</h3>
+    <img align="center" src="https://skillicons.dev/icons?i=arch,neovim,vim,vscode,git,github,vercel,postman&theme=dark" />
   </div>
 </div>
  
