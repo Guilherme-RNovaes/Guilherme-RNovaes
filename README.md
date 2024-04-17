@@ -14,7 +14,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=html,css,react,next,vite,tailwind,bootstrap,sass,styledcomponents,figma&theme=dark" />
   </div>
   <div align="center">
-    <h3>Back-end</h3>
+    <h3>Backend</h3>
     <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,lua,mysql,mongodb,prisma,postgresql,firebase,supabase&theme=dark" />
   </div>
   <div align="center">
