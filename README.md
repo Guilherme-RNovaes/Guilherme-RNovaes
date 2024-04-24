@@ -45,6 +45,7 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Guilherme-RNovaes's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Guilherme-RNovaes&theme=black-ice&hide_border=true&border_radius=5&locale=pt_BR&ring=5BCDEC&background=060A0CD0"/>
   </a>
 </p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-RNovaes&theme=dark&hide_border=true&exclude_days=Sun" alt="GitHub Streak" /></a>
 <p align="center">                                                                                                
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-RNovaes&&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
 </p>
