@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img width="360" height="150"  src="https://github-readme-stats.vercel.app/api?username=Guilherme-RNovaes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" />
+  <img width="360" height="130"  src="https://github-readme-stats.vercel.app/api?username=Guilherme-RNovaes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=060A0CD0&title_color=5BCDEC" />
   <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-RNovaes&layout=compact&hide_title=true&hide_border=true&bg_color=060A0CD0&text_color=5BCDEC"/>
 </div>
 
