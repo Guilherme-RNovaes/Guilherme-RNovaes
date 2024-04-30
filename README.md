@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao meu perfil!!
+# Welcome to my profile!!
 
 
 <div align="center">
@@ -6,7 +6,7 @@
   <img width="330" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-RNovaes&layout=compact&hide_title=true&hide_border=true&bg_color=060A0CD0&text_color=5BCDEC"/>
 </div>
 
-## Minhas skills
+## My skills
 
 <div align="center">
   <div align="center">
@@ -23,7 +23,7 @@
   </div>
 </div>
  
- ## Me segue nas redes abaixo!
+ ## My networks!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-r-novaes" target="_blank">
@@ -38,7 +38,7 @@
   
 </div>
 
-## Contribuições
+## Contribution
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-RNovaes&theme=black-ice&hide_border=true&exclude_days=Sun&background=060A0CD0" alt="Guilherme-RNovaes's Streak" /></a>
