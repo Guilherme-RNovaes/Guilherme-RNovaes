@@ -38,7 +38,7 @@
   
 </div>
 
-## Contribution
+## Statistics
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-RNovaes&theme=black-ice&hide_border=true&exclude_days=Sun&background=060A0CD0" alt="Guilherme-RNovaes's Streak" /></a>
