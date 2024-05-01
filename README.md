@@ -23,7 +23,7 @@
   </div>
 </div>
  
- ## My socials!
+ ## My socials
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-r-novaes" target="_blank">
