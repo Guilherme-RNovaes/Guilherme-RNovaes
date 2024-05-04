@@ -15,7 +15,7 @@
   </div>
   <div align="center">
     <h3>Backend</h3>
-    <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,lua,mysql,mongodb,prisma,postgresql,firebase,supabase&theme=light" />
+    <img align="center" src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express,lua,mysql,mongodb,prisma,postgresql,firebase,supabase&theme=dark" />
   </div>
   <div align="center">
     <h3>Dev tools</h3>
