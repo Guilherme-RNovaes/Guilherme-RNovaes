@@ -11,7 +11,7 @@
 <div align="center">
   <div align="center">
     <h3>Frontend</h3>
-    <img align="center" src="https://skillicons.dev/icons?i=html,css,react,next,vite,tailwind,bootstrap,sass,styledcomponents,figma&theme=dark" />
+    <img align="center" src="https://skillicons.dev/icons?i=html,css,react,next,vite,vue,tailwind,bootstrap,sass,styledcomponents,figma&theme=dark" />
   </div>
   <div align="center">
     <h3>Backend</h3>
