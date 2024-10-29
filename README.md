@@ -37,7 +37,7 @@
 ## Statistics
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-RNovaes&theme=black-ice&hide_border=true&exclude_days=Sun&background=060A0CD0" alt="Guilherme-RNovaes's Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Guilherme-RNovaes&theme=black-ice&hide_border=true&background=060A0CD0" alt="Guilherme-RNovaes's Streak" /></a>
 </p>
 <p align="center">                                                                                                
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Guilherme-RNovaes&&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&area=true&hide_border=true" />
