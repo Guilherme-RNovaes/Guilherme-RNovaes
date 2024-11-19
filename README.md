@@ -32,6 +32,9 @@
   <a href="https://instagram.com/gr.novaes" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" target="_blank">
   </a>
+  <a href="https://gnovaes-portfolio.vercel.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto&theme=dark" target="_blank">
+  </a>
 </div>
 
 ## Statistics
