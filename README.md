@@ -19,7 +19,7 @@
   </div>
   <div align="center">
     <h3>Dev tools</h3>
-    <img align="center" src="https://skillicons.dev/icons?i=arch,neovim,vim,vscode,vscodium,git,github,vercel,obsidian&theme=dark" />
+    <img align="center" src="https://skillicons.dev/icons?i=arch,neovim,vim,vscode,vscodium,postman,git,github,vercel,obsidian&theme=dark" />
   </div>
 </div>
  
