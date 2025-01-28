@@ -11,7 +11,7 @@
 <div align="center">
   <div align="center">
     <h3>Frontend</h3>
-    <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,next,vite,tailwind,sass,styledcomponents,figma,gsap,&theme=dark" />
+    <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,next,vite,tailwind,sass,styledcomponents,figma,penpot,gsap,&theme=dark" />
   </div>
   <div align="center">
     <h3>Backend</h3>
